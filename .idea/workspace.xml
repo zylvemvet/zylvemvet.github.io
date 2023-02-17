@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/honers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/honers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/news.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/others.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/pub.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/diffsinger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fs2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo-sea-header-desktop.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/microsoft_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portaspeech.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ry_profile.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/images/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tiktok.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LrxJ7uahs8eEvxhIcsDQsrxhoi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="" />
+      <created>1676642927800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676642927800</updated>
+      <workItem from="1676642930983" duration="9410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676644889063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676644889063" />
+    <state x="1142" y="254" width="596" height="532" key="find.popup" timestamp="1676643808840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1142" y="254" width="596" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1676643808840" />
+  </component>
+</project>
