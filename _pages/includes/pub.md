@@ -16,7 +16,7 @@
 <div class='paper-box-text' markdown="1">
 
 [**OvarNet: Towards Open-vocabulary Object Attribute Recognition**](https://arxiv.org/abs/2301.09506) \\
- **Arxiv, 2023** \\
+ *Arxiv, 2023* \\
 Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi Xie \\
 [<a href="https://arxiv.org/abs/2301.09506">PDF</a>] [<a href="https://kyanchen.github.io/OvarNet/">Project</a>] [<a href="https://github.com/KyanChen/OvarNet">Code</a>] 
 
@@ -29,7 +29,7 @@ Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi 
 [**Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations**](https://levir.buaa.edu.cn/publications/RASNet.pdf) \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2022* \\
 Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
-[<a href="https://github.com/KyanChen/RASNet">PDF</a>] [<a href="https://kyanchen.github.io/RASNet/">Project</a>] [<a href="https://levir.buaa.edu.cn/publications/RASNet.pdf">Code</a>] 
+[<a href="https://levir.buaa.edu.cn/publications/RASNet.pdf">PDF</a>] [<a href="https://kyanchen.github.io/RASNet/">Project</a>] [<a href="https://github.com/KyanChen/RASNet">Code</a>] 
 
 </div>
 </div>
