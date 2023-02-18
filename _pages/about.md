@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
 {% include_relative includes/news.md %}
@@ -18,4 +17,3 @@ redirect_from:
 {% include_relative includes/honers.md %}
 
 {% include_relative includes/others.md %}
-<span class='anchor' id='end-page'></span>
