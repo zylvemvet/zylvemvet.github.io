@@ -4,8 +4,9 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRSR.png' alt="INRSR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**](https://arxiv.org/abs/2302.08046) \\ *Arxiv, 2023* \\
-Keyan Chen, Wenyuan Li, Sen Lei, **Jianqi Chen**, Xiaolong Jiang, Zhengxia Zou, and Zhenwei Shi \\
+[**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**](https://arxiv.org/abs/2302.08046) \
+ *Arxiv, 2023* \
+ Keyan Chen, Wenyuan Li, Sen Lei, **Jianqi Chen**, Xiaolong Jiang, Zhengxia Zou, and Zhenwei Shi \
 [<a href="https://arxiv.org/abs/2302.08046">PDF</a>] [<a href="https://kyanchen.github.io/FunSR/">Project</a>] [<a href="https://github.com/KyanChen/FunSR">Code</a>] 
 
 </div>
@@ -14,8 +15,9 @@ Keyan Chen, Wenyuan Li, Sen Lei, **Jianqi Chen**, Xiaolong Jiang, Zhengxia Zou, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/OvarNet.png' alt="OvarNet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**OvarNet: Towards Open-vocabulary Object Attribute Recognition**](https://arxiv.org/abs/2301.09506) \\ **Arxiv, 2023** \\
-Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi Xie \\
+[**OvarNet: Towards Open-vocabulary Object Attribute Recognition**](https://arxiv.org/abs/2301.09506) \
+ **Arxiv, 2023** \
+Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi Xie \
 [<a href="https://arxiv.org/abs/2301.09506">PDF</a>] [<a href="https://kyanchen.github.io/OvarNet/">Project</a>] [<a href="https://github.com/KyanChen/OvarNet">Code</a>] 
 
 </div>
@@ -24,8 +26,9 @@ Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRCls.png' alt="INRCls" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations**](https://levir.buaa.edu.cn/publications/RASNet.pdf) \\ *IEEE Geoscience and Remote Sensing Letters (GRSL), 2022* \\
-Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
+[**Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations**](https://levir.buaa.edu.cn/publications/RASNet.pdf) \
+ *IEEE Geoscience and Remote Sensing Letters (GRSL), 2022* \
+Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \
 [<a href="https://github.com/KyanChen/RASNet">PDF</a>] [<a href="https://kyanchen.github.io/RASNet/">Project</a>] [<a href="https://levir.buaa.edu.cn/publications/RASNet.pdf">Code</a>] 
 
 </div>
@@ -34,8 +37,9 @@ Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PPNet.png' alt="PPNet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images**](https://levir.buaa.edu.cn/publications/CLFSC.pdf) \\ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \\
-**Jianqi Chen**, Keyan Chen, Hao Chen, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi \\
+[**Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images**](https://levir.buaa.edu.cn/publications/CLFSC.pdf) \
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \
+**Jianqi Chen**, Keyan Chen, Hao Chen, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi \
 [<a href="https://levir.buaa.edu.cn/publications/CLFSC.pdf">PDF</a>] [<a href="https://github.com/WindVChen/Push-and-Pull-Network">Code</a>] 
 
 </div>
@@ -44,8 +48,9 @@ Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DRENet.png' alt="DRENet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset**](https://levir.buaa.edu.cn/publications/DRENet.pdf) \\ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \\
-**Jianqi Chen**, Keyan Chen, Hao Chen, Zhengxia Zou and Zhenwei Shi \\
+[**A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset**](https://levir.buaa.edu.cn/publications/DRENet.pdf) \
+ *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \
+**Jianqi Chen**, Keyan Chen, Hao Chen, Zhengxia Zou and Zhenwei Shi \
 [<a href="https://levir.buaa.edu.cn/publications/DRENet.pdf">PDF</a>] [<a href="https://github.com/windvchen/levir-ship">Dataset</a>]  [<a href="https://github.com/WindVChen/DRENet">Code</a>]
 
 </div>

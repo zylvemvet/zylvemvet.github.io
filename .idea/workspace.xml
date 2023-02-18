@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/includes/honers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/honers.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/includes/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/news.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/includes/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/others.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/includes/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/pub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/android-chrome-192x192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/android-chrome-512x512.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diffsinger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon-16x16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon-32x32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fs2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-sea-header-desktop.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/microsoft_logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portaspeech.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ry_profile.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/images/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tiktok.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_page.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +54,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676642927800</updated>
-      <workItem from="1676642930983" duration="9410000" />
+      <workItem from="1676642930983" duration="13494000" />
     </task>
+    <task id="LOCAL-00001" summary="02/18 Init">
+      <created>1676654635848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676654635848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="02/18 Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="02/18 Init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676644889063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676644889063" />
-    <state x="1142" y="254" width="596" height="532" key="find.popup" timestamp="1676643808840">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1676654637141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1142" y="254" width="596" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1676643808840" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676654637141" />
+    <state x="1142" y="254" width="596" height="532" key="find.popup" timestamp="1676687676972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1142" y="254" width="596" height="532" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1676687676972" />
   </component>
 </project>
