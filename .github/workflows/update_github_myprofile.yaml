@@ -4,8 +4,12 @@ on: 'page_build'
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v2
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
