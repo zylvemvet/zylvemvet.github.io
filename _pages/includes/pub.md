@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRSR.png' alt="INRSR" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRSR.png' alt="INRSR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**](https://arxiv.org/abs/2302.08046) \\
@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/OvarNet.png' alt="OvarNet" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/OvarNet.png' alt="OvarNet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**OvarNet: Towards Open-vocabulary Object Attribute Recognition**](https://arxiv.org/abs/2301.09506) \\
@@ -23,7 +23,7 @@ Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRCls.png' alt="INRCls" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRCls.png' alt="INRCls" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations**](https://levir.buaa.edu.cn/publications/RASNet.pdf) \\
@@ -34,7 +34,7 @@ Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PPNet.png' alt="PPNet" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PPNet.png' alt="PPNet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images**](https://levir.buaa.edu.cn/publications/CLFSC.pdf) \\
@@ -45,7 +45,7 @@ Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DRENet.png' alt="DRENet" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DRENet.png' alt="DRENet" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset**](https://levir.buaa.edu.cn/publications/DRENet.pdf) \\
