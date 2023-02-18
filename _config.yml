@@ -21,7 +21,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Jianqi Chen (陈剑奇)"
+  name             : "Jianqi Chen <br /> (陈剑奇)"
   avatar           : "images/Profi.jpg"
   bio              : "LEVIR Group"
   location         : "Beijing"
