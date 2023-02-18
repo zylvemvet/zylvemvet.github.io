@@ -61,7 +61,7 @@ Keyan Chen, Wenyuan Li, **<font color="#C00000">Jianqi Chen</font>**, Zhengxia Z
 
 <a class=PaperTitle href="https://levir.buaa.edu.cn/publications/DRENet.pdf"><b>A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \\
-**<font color="#C00000">Jianqi Chen</font>**, Keyan Chen, Hao Chen, Zhengxia Zou and Zhenwei Shi \\
+**<font color="#C00000">Jianqi Chen</font>**, Keyan Chen, Hao Chen, Zhengxia Zou, and Zhenwei Shi \\
 [<a href="https://levir.buaa.edu.cn/publications/DRENet.pdf">PDF</a>] [<a href="https://github.com/windvchen/levir-ship">Dataset</a>]  [<a href="https://github.com/WindVChen/DRENet">Code</a>]
 
 </div>
