@@ -6,7 +6,7 @@
 
 [**Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space**](https://arxiv.org/abs/2302.08046) \\
  *Arxiv, 2023* \\
- Keyan Chen, Wenyuan Li, Sen Lei, **Jianqi Chen**, Xiaolong Jiang, Zhengxia Zou, and Zhenwei Shi \\
+ Keyan Chen, Wenyuan Li, Sen Lei, <font color="#C00000">**Jianqi Chen**</font>, Xiaolong Jiang, Zhengxia Zou, and Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2302.08046">PDF</a>] [<a href="https://kyanchen.github.io/FunSR/">Project</a>] [<a href="https://github.com/KyanChen/FunSR">Code</a>] 
 
 </div>
@@ -17,8 +17,19 @@
 
 [**OvarNet: Towards Open-vocabulary Object Attribute Recognition**](https://arxiv.org/abs/2301.09506) \\
  *Arxiv, 2023* \\
-Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi Xie \\
+Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, <font color="#C00000">**Jianqi Chen**</font>, and Weidi Xie \\
 [<a href="https://arxiv.org/abs/2301.09506">PDF</a>] [<a href="https://kyanchen.github.io/OvarNet/">Project</a>] [<a href="https://github.com/KyanChen/OvarNet">Code</a>] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TFormer.png' alt="OvarNet" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis**](https://arxiv.org/abs/2211.11393) \\
+ *Arxiv, 2022* \\
+Yilan Zhang, Fengying Xie, <font color="#C00000">**Jianqi Chen**</font>, and Jie Liu \\
+[<a href="https://arxiv.org/abs/2211.11393">PDF</a>]
 
 </div>
 </div>
@@ -28,7 +39,7 @@ Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **Jianqi Chen** and Weidi 
 
 [**Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations**](https://levir.buaa.edu.cn/publications/RASNet.pdf) \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2022* \\
-Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
+Keyan Chen, Wenyuan Li, <font color="#C00000">**Jianqi Chen**</font>, Zhengxia Zou, and Zhenwei Shi \\
 [<a href="https://levir.buaa.edu.cn/publications/RASNet.pdf">PDF</a>] [<a href="https://kyanchen.github.io/RASNet/">Project</a>] [<a href="https://github.com/KyanChen/RASNet">Code</a>] 
 
 </div>
@@ -39,7 +50,7 @@ Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
 
 [**Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images**](https://levir.buaa.edu.cn/publications/CLFSC.pdf) \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \\
-**Jianqi Chen**, Keyan Chen, Hao Chen, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi \\
+<font color="#C00000">**Jianqi Chen**</font>, Keyan Chen, Hao Chen, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi \\
 [<a href="https://levir.buaa.edu.cn/publications/CLFSC.pdf">PDF</a>] [<a href="https://github.com/WindVChen/Push-and-Pull-Network">Code</a>] 
 
 </div>
@@ -50,7 +61,7 @@ Keyan Chen, Wenyuan Li, **Jianqi Chen**, Zhengxia Zou and Zhenwei Shi \\
 
 [**A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset**](https://levir.buaa.edu.cn/publications/DRENet.pdf) \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2022* \\
-**Jianqi Chen**, Keyan Chen, Hao Chen, Zhengxia Zou and Zhenwei Shi \\
+<font color="#C00000">**Jianqi Chen**</font>, Keyan Chen, Hao Chen, Zhengxia Zou and Zhenwei Shi \\
 [<a href="https://levir.buaa.edu.cn/publications/DRENet.pdf">PDF</a>] [<a href="https://github.com/windvchen/levir-ship">Dataset</a>]  [<a href="https://github.com/WindVChen/DRENet">Code</a>]
 
 </div>
