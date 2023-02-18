@@ -50,18 +50,18 @@
 
 .page__content {
   #about-me{
-    margin-top: 0em;
+    margin-top: -100em;
       &:before {
         content: ''; 
         display: block; 
         position: relative; 
         width: 0; 
         height: 10em; 
-        margin-top: 0em;
+        margin-top: -10em;
     }
   }
   #end-page{
-    margin-top: -10em;
+    margin-top: 100em;
       &:before {
         content: '';
         display: block;
