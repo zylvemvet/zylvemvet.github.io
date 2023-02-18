@@ -12,7 +12,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/OvarNet.png' alt="OvarNet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href='images/OvarNet.png'><img src='images/OvarNet.png' alt="OvarNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2301.09506"><b>OvarNet: Towards Open-vocabulary Object Attribute Recognition</b></a> \\
@@ -23,7 +23,7 @@ Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **<font color="#C00000">Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TFormer.png' alt="TFormer" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TFormer.png"><img src='images/TFormer.png' alt="TFormer" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2211.11393"><b>TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis</b></a> \\
@@ -34,7 +34,7 @@ Yilan Zhang, Fengying Xie, **<font color="#C00000">Jianqi Chen</font>**, and Jie
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRCls.png' alt="INRCls" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INRCls.png"><img src='images/INRCls.png' alt="INRCls" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://levir.buaa.edu.cn/publications/RASNet.pdf"><b>Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations</b></a> \\
@@ -45,7 +45,7 @@ Keyan Chen, Wenyuan Li, **<font color="#C00000">Jianqi Chen</font>**, Zhengxia Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/PPNet.png' alt="PPNet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/PPNet.png"><img src='images/PPNet.png' alt="PPNet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://levir.buaa.edu.cn/publications/CLFSC.pdf"><b>Contrastive Learning for Fine-grained Ship Classification in Remote Sensing Images</b></a> \\
@@ -56,7 +56,7 @@ Keyan Chen, Wenyuan Li, **<font color="#C00000">Jianqi Chen</font>**, Zhengxia Z
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/DRENet.png' alt="DRENet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/DRENet.png"><img src='images/DRENet.png' alt="DRENet" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://levir.buaa.edu.cn/publications/DRENet.pdf"><b>A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset</b></a> \\
