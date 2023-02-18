@@ -143,6 +143,15 @@
     margin-top: 10px;
     margin-bottom: 20px;
   }
+
+  a {
+    &:link {
+      color: black;
+    }
+    &:visited {
+      color: black;
+    }
+  }
 }
 
 .author__urls-wrapper {
