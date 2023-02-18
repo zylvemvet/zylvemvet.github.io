@@ -28,7 +28,7 @@ Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, <font color="#C00000">**Ji
 
 [**TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis**](https://arxiv.org/abs/2211.11393) \\
  *Arxiv, 2022* \\
-Yilan Zhang, Fengying Xie, <font color="#C00000">**Jianqi Chen**</font>, and Jie Liu \\
+Yilan Zhang, Fengying Xie, <font color="#C00000" weight=bold>Jianqi Chen</font>, and Jie Liu \\
 [<a href="https://arxiv.org/abs/2211.11393">PDF</a>]
 
 </div>
