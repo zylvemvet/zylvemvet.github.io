@@ -37,7 +37,7 @@ Yilan Zhang, Fengying Xie, **<font color="#C00000">Jianqi Chen</font>**, and Jie
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRCls.png' alt="INRCls" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**<div class=PaperTitle>Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations</div>**](https://levir.buaa.edu.cn/publications/RASNet.pdf) \\
+[**<div class='PaperTitle'>Resolution-agnostic Remote Sensing Scene Classification with Implicit Neural Representations</div>**](https://levir.buaa.edu.cn/publications/RASNet.pdf) \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2022* \\
 Keyan Chen, Wenyuan Li, **<font color="#C00000">Jianqi Chen</font>**, Zhengxia Zou, and Zhenwei Shi \\
 [<a href="https://levir.buaa.edu.cn/publications/RASNet.pdf">PDF</a>] [<a href="https://kyanchen.github.io/RASNet/">Project</a>] [<a href="https://github.com/KyanChen/RASNet">Code</a>] 
