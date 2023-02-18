@@ -23,7 +23,7 @@ Keyan Chen, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, **<font color="#C00000">Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TFormer.png' alt="OvarNet" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TFormer.png' alt="TFormer" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**TFormer: A throughout fusion transformer for multi-modal skin lesion diagnosis**](https://arxiv.org/abs/2211.11393) \\
