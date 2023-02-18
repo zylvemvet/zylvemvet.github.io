@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/INRSR.png' alt="INRSR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INRSR.png"><img src='images/INRSR.png' alt="INRSR" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
  <a class=PaperTitle href="https://arxiv.org/abs/2302.08046"><b>Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space</b></a> \\
