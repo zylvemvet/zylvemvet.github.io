@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="" />
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/news.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676642927800</updated>
-      <workItem from="1676642930983" duration="30017000" />
+      <workItem from="1676642930983" duration="30317000" />
+      <workItem from="1676711869163" duration="730000" />
     </task>
     <task id="LOCAL-00001" summary="02/18 Init">
       <created>1676654635848</created>
@@ -309,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676711314912</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="02/18 InitFinish">
+      <created>1676711714831</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1676711714831</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,10 +348,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="02/18 Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="02/18 Init" />
+    <MESSAGE value="02/18 InitFinish" />
+    <option name="LAST_COMMIT_MESSAGE" value="02/18 InitFinish" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1110" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676644889063">
@@ -355,10 +368,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1676688628154" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1676711315856">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1676711715836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676711315856" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1676711715836" />
     <state x="567" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1676692925053">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
