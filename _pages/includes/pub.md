@@ -7,7 +7,7 @@
 
 <a class=PaperTitle href="https://arxiv.org/abs/2303.01681"><b>Dense Pixel-to-Pixel Harmonization via Continuous Image Representation</b></a> \\
  *Arxiv, 2023* \\
-**Jianqi Chen,<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Chen, and Zhenwei Shi \\
+Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Chen, and Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code coming soon</a>] 
 
 </div>
