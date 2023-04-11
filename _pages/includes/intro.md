@@ -1,2 +1,2 @@
-# 👋 About Me
-I am currently a second-year M.S. student at Beihang University (BUAA), supervised by Prof. [Fengying Xie](https://www.sa.buaa.edu.cn/info/1153/6827.htm). Previously, I received my bachelor’s degree from Beihang University in June 2021. My research interests lie in medical image processing.
+# 👋 About Me  ([CV](https://windvchen.github.io/images/CV-YilanZhang.pdf))
+I am currently a second-year M.S. student at Beihang University (BUAA), supervised by Prof. [Fengying Xie](https://www.sa.buaa.edu.cn/info/1153/6827.htm). Previously, I received my bachelor’s degree from Beihang University in June 2021. My research interests lie in medical image analysis, multi-modality, and image synthesis.
