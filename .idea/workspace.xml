@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="4/2 supp code" />
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="4/11 updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +60,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ZYL\Project\code_2023\zylbuaa.github.io\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -90,13 +96,7 @@
       <workItem from="1680426177754" duration="83000" />
       <workItem from="1680426539243" duration="803000" />
       <workItem from="1680427446508" duration="638000" />
-    </task>
-    <task id="LOCAL-00015" summary="02/18 Init">
-      <created>1676694142112</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1676694142112</updated>
+      <workItem from="1681222378724" duration="460000" />
     </task>
     <task id="LOCAL-00016" summary="02/18 Init">
       <created>1676694865783</created>
@@ -434,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680427468797</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="4/11 updates">
+      <created>1681222584167</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1681222584167</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,6 +510,7 @@
     <MESSAGE value="2/21 supp code" />
     <MESSAGE value="3/16 supp code" />
     <MESSAGE value="4/2 supp code" />
-    <option name="LAST_COMMIT_MESSAGE" value="4/2 supp code" />
+    <MESSAGE value="4/11 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="4/11 updates" />
   </component>
 </project>
