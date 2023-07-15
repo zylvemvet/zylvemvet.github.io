@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>< img src='images/ECL.png' alt="ECL" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/ECL.png"><img src='images/ECL.png' alt="ECL" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2307.04136"><b>ECL: Class-Enhancement Contrastive Learning for Long-tailed Skin Lesion Classification</b></a > \\
@@ -25,7 +25,7 @@ Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>< img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Diff-Harmon.png"><img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href=""><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a > \\
@@ -48,7 +48,7 @@ Jianqi Chen, Zhengxia Zou, **<font color="#C00000">Yilan Zhang</font>**, Keyan C
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>< img src='images/DiffAttack.png' alt="DiffAttack" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/DiffAttack.png"><img src='images/DiffAttack.png' alt="DiffAttack" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2305.08192"><b>Diffusion Models for Imperceptible and Transferable Adversarial Attack</b></a > \\
