@@ -2,6 +2,18 @@
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>< img src='images/ECL.png' alt="ECL" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2307.04136"><b>ECL: Class-Enhancement Contrastive Learning for Long-tailed Skin Lesion Classification</b></a > \\
+ *MICCAI, 2023 (STAR Award)* \\
+**<font color="#C00000">Yilan Zhang</font>**, Jianqi Chen, Ke Wang, and Fengying Xie \\
+[<a href="https://arxiv.org/pdf/2307.04136.pdf">PDF</a>] [<a href="https://github.com/zylbuaa/ECL">Code</a>] 
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/INR-Harmon.png"><img src='images/INR-Harmon.png' alt="INR-Harmonization" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -13,6 +25,16 @@ Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Ch
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>< img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href=""><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a > \\
+ *Arxiv, 2023* \\
+Jianqi Chen, Zhengxia Zou, **<font color="#C00000">Yilan Zhang</font>**, Keyan Chen, and Zhenwei Shi \\
+[PDF] [] 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TFormer.png"><img src='images/TFormer.png' alt="TFormer" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -25,6 +47,17 @@ Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Ch
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>< img src='images/DiffAttack.png' alt="DiffAttack" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://arxiv.org/abs/2305.08192"><b>Diffusion Models for Imperceptible and Transferable Adversarial Attack</b></a > \\
+ *Arxiv, 2023* \\
+Jianqi Chen, Hao Chen, Keyan Chen, **<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, and Zhenwei Shi \\
+[] [] 
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CRI.png"><img src='images/CRI.png' alt="Rotation-invariance Deep Hashing" width="100%"></a></div></div>
