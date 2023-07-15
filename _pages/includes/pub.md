@@ -25,7 +25,7 @@ Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>< img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Diff-Harmon.png">< img src='images/Diff-Harmon.png' alt="Diff-Harmonization" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href=""><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a > \\
