@@ -20,7 +20,7 @@
 <a class=PaperTitle href="https://arxiv.org/abs/2303.01681"><b>Dense Pixel-to-Pixel Harmonization via Continuous Image Representation</b></a> \\
  *Arxiv, 2023* \\
 Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Chen, and Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code coming soon</a>] 
+[<a href="https://arxiv.org/abs/2303.01681">PDF</a>] [<a href="https://github.com/WindVChen/INR-Harmonization">Code</a>] [<a href="https://huggingface.co/spaces/WindVChen/INR-Harmon">Demo</a>]
 
 </div>
 </div>
@@ -31,7 +31,7 @@ Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Ch
 <a class=PaperTitle href=""><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a > \\
  *Arxiv, 2023* \\
 Jianqi Chen, Zhengxia Zou, **<font color="#C00000">Yilan Zhang</font>**, Keyan Chen, and Zhenwei Shi \\
-[PDF] [] 
+[<a href="https://arxiv.org/abs/2307.08182">PDF</a>] [<a herf = "https://github.com/WindVChen/Diff-Harmonization">Code coming soon</a>] 
 
 </div>
 </div>
@@ -54,7 +54,7 @@ Jianqi Chen, Zhengxia Zou, **<font color="#C00000">Yilan Zhang</font>**, Keyan C
 <a class=PaperTitle href="https://arxiv.org/abs/2305.08192"><b>Diffusion Models for Imperceptible and Transferable Adversarial Attack</b></a > \\
  *Arxiv, 2023* \\
 Jianqi Chen, Hao Chen, Keyan Chen, **<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, and Zhenwei Shi \\
-[] [] 
+[<a href="https://arxiv.org/abs/2305.08192">PDF</a>] [<a herf = "https://github.com/WindVChen/DiffAttack">Code</a>] 
 
 </div>
 </div>

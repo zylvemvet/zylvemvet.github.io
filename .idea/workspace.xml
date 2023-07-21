@@ -25,8 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="7/15 updates">
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="7/20 updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/pub.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "D:/CollegeWork/Programs/MultiM",
+    "last_opened_file_path": "D:/CollegeWork/Programs/zylbuaa.github.io",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -104,13 +105,8 @@
       <workItem from="1681222378724" duration="460000" />
       <workItem from="1689426795239" duration="813000" />
       <workItem from="1689428390455" duration="6955000" />
-    </task>
-    <task id="LOCAL-00022" summary="02/18 Init">
-      <created>1676704859134</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1676704859134</updated>
+      <workItem from="1689850662030" duration="813000" />
+      <workItem from="1689922522181" duration="753000" />
     </task>
     <task id="LOCAL-00023" summary="02/18 Init">
       <created>1676705543352</created>
@@ -448,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689437340960</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="7/20 updates">
+      <created>1689850718435</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1689850718435</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,6 +522,7 @@
     <MESSAGE value="4/2 supp code" />
     <MESSAGE value="4/11 updates" />
     <MESSAGE value="7/15 updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/15 updates" />
+    <MESSAGE value="7/20 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/20 updates" />
   </component>
 </project>
