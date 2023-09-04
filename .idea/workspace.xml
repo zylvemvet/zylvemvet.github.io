@@ -25,9 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="7/21 updates">
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="2023/7/22 updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/CV-YilanZhang.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,19 +58,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "D:/CollegeWork/Programs/zylbuaa.github.io",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CollegeWork/Programs/zylbuaa.github.io&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CollegeWork\Programs\zylbuaa.github.io\images" />
       <recent name="F:\ZYL\Project\code_2023\zylbuaa.github.io\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CollegeWork\Programs\zylbuaa.github.io\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,14 +108,8 @@
       <workItem from="1689426795239" duration="813000" />
       <workItem from="1689428390455" duration="6955000" />
       <workItem from="1689850662030" duration="813000" />
-      <workItem from="1689922522181" duration="1691000" />
-    </task>
-    <task id="LOCAL-00025" summary="02/18 Init">
-      <created>1676705800103</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1676705800103</updated>
+      <workItem from="1689922522181" duration="2332000" />
+      <workItem from="1690131465230" duration="749000" />
     </task>
     <task id="LOCAL-00026" summary="02/18 Init">
       <created>1676706232320</created>
@@ -451,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689923450926</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="2023/7/22 updates">
+      <created>1690019849973</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1690019849973</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,6 +527,7 @@
     <MESSAGE value="7/15 updates" />
     <MESSAGE value="7/20 updates" />
     <MESSAGE value="7/21 updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/21 updates" />
+    <MESSAGE value="2023/7/22 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/7/22 updates" />
   </component>
 </project>
