@@ -1,4 +1,6 @@
 # 🔥 News
+- *2023.10*: One paper is accepted by ***<font color="red">TCSVT</font> (IF=8.4)***!
+- *2023.09*: I'm honored with ***<font color="red">National Scholarship </font> in China***!
 - *2023.07*: One paper is accepted by ***<font color="red">MICCAI 2023</font> (STAR Award)***!
 - *2023.02*: One paper is accepted by ***<font color="red">CBM</font> (IF=7.7)***!
 - *2023.01*: One paper is accepted by ***<font color="red">CMPB</font> (IF=6.1)***!
