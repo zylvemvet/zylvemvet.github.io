@@ -62,7 +62,7 @@ Jianqi Chen,**<font color="#C00000">Yilan Zhang</font>**, Zhengxia Zou, Keyan Ch
 
 <a class=PaperTitle href=""><b>Zero-Shot Image Harmonization with Generative Model Prior</b></a > \\
  *Arxiv, 2023* \\
-Jianqi Chen,**<font color="#C00000">Yilan Zhang(Co-first Author)</font>** Zhengxia Zou, , Keyan Chen, and Zhenwei Shi \\
+Jianqi Chen,**<font color="#C00000">Yilan Zhang(Co-first Author)</font>**, Zhengxia Zou, , Keyan Chen, and Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2307.08182">PDF</a>] [<a herf = "https://github.com/WindVChen/Diff-Harmonization">Code coming soon</a>] 
 
 </div>

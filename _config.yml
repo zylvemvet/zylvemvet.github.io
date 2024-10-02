@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yilan Zhang (张漪澜)"
-description              : "Pursuing master's degree in Beihang University. Focusing on medical image processing."
-repository               : "zylbuaa/zylbuaa.github.io"
+description              : "Pursuing Ph.D's degree in King Abdullah University of Science and Technology (KAUST). Focusing on medical image processing."
+repository               : "zylvemvet/zylvemvet.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,11 +24,11 @@ author:
   name             : "Yilan Zhang <br /> (张漪澜)"
   avatar           : "images/Profi.jpg"
   bio              :
-  location         : "Beijing"
+  location         : "Ryadh, Saudi Arabia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=wZ4M4ecAAAAJ"
-  email            : "zhangyilan@buaa.com"
+  email            : "yilan.zhang@kaust.edu.sa"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zylbuaa"
+  github           : "zylvemvet"
   google_plus      :
   keybase          :
   instagram        :
