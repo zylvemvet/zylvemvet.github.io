@@ -27,8 +27,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="2023/9/05 updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/includes/honers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/honers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/homepage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/homepage.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/intro.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/includes/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/news.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/includes/others.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/others.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/includes/pub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/includes/pub.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +68,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "D:/CollegeWork/Programs/zylbuaa.github.io",
+    "last_opened_file_path": "D:/CollegeWork/Programs/zylvemvet.github.io",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -118,6 +120,7 @@
       <workItem from="1695200903858" duration="2249000" />
       <workItem from="1695309832928" duration="18000" />
       <workItem from="1697613121087" duration="526000" />
+      <workItem from="1727868937063" duration="1620000" />
     </task>
     <task id="LOCAL-00028" summary="02/18 Init">
       <created>1676706650568</created>

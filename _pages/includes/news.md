@@ -1,4 +1,7 @@
 # 🔥 News
+- *2024.07*: One paper is accepted by ***<font color="red">MICCAI 2024 </font> (Ninth ISIC Skin Image Analysis Workshop, Oral Presentation)***!
+- *2024.05*: One paper is accepted by ***<font color="red">TGRS</font> (IF=8.2)***!
+- *2024.01*: One paper is accepted by ***<font color="red">ICLR 2024</font> (Spotlight)***!
 - *2023.10*: One paper is accepted by ***<font color="red">TCSVT</font> (IF=8.4)***!
 - *2023.09*: I'm honored with ***<font color="red">National Scholarship </font> in China***!
 - *2023.07*: One paper is accepted by ***<font color="red">MICCAI 2023</font> (STAR Award)***!
