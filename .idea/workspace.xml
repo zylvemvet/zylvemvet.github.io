@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="2024/10/02 updates">
+    <list default="true" id="0d682c29-b5b9-4e74-b2d8-b72c97cc2b82" name="Default Changelist" comment="2024/12/10 updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "true",
-    "last_opened_file_path": "D:/CollegeWork/Programs/differential_privacy_hw",
+    "last_opened_file_path": "D:/CollegeWork/Programs/zylvemvet.github.io",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -73,6 +73,7 @@
       <recent name="F:\ZYL\Project\code_2023\zylbuaa.github.io\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CollegeWork\Programs\zylvemvet.github.io\images" />
       <recent name="D:\CollegeWork\Programs\zylbuaa.github.io\images" />
     </key>
   </component>
@@ -117,13 +118,7 @@
       <workItem from="1697613121087" duration="526000" />
       <workItem from="1727868937063" duration="2390000" />
       <workItem from="1728483259444" duration="91000" />
-    </task>
-    <task id="LOCAL-00031" summary="02/18 Init">
-      <created>1676708038772</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1676708038772</updated>
+      <workItem from="1733837648695" duration="890000" />
     </task>
     <task id="LOCAL-00032" summary="02/18 Init">
       <created>1676708267539</created>
@@ -461,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727871223012</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="2024/12/10 updates">
+      <created>1733838097067</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1733838097067</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,6 +539,7 @@
     <MESSAGE value="2023/7/22 updates" />
     <MESSAGE value="2023/9/05 updates" />
     <MESSAGE value="2024/10/02 updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024/10/02 updates" />
+    <MESSAGE value="2024/12/10 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024/12/10 updates" />
   </component>
 </project>
